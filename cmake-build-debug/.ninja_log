@@ -1,0 +1,5 @@
+# ninja log v5
+7	609	7382572343100854	CMakeFiles/Trees.dir/main.cpp.obj	e3dd02f4c6f4a608
+2	336	7382573972157161	build.ninja	9d06c041b16739e1
+609	737	7382572344350984	Trees.exe	5158b30b310af254
+6	715	7382571940520607	CMakeFiles/Trees.dir/hello.cpp.obj	1d6826f2ad379ec9
